@@ -1,0 +1,6 @@
+IP: 84.252.136.172;
+name_taski: https://taskihomework.zapto.org;
+name_kittygram: https://kittygramhomework.zapto.org;
+login: dost;
+password: dost;
+ 
